@@ -16,6 +16,8 @@ console.log('Hello from Top Level Code');
 /* 
 Hello from Top Level Code 
 Hello from Immediate
-File Reading Complete...
-
+File Reading Complete... 
+Immediate 2
+Time 2
+Time 3
 */
