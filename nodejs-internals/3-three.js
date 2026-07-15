@@ -7,4 +7,11 @@ fs.readFile('sample.txt', 'utf-8', function (err, data) {
   console.log(`File Reading Complete...`);
 });
 
-console.log('Hello from Top Level Code');
+console.log('Hello from Top Level Code'); 
+
+/* 
+Hello from Top Level Code 
+Hello from Immediate
+File Reading Complete...
+
+*/
