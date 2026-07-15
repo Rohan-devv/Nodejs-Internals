@@ -11,4 +11,11 @@ fs.readFile('sample.txt', 'utf-8', function (err, data) {
   setImmediate(() => console.log('Immediate 2'), 0);
 });
 
-console.log('Hello from Top Level Code');
+console.log('Hello from Top Level Code'); 
+
+/* 
+Hello from Top Level Code 
+Hello from Immediate
+File Reading Complete...
+
+*/
